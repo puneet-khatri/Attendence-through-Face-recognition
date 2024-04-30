@@ -53,7 +53,3 @@ pip install face_recognition opencv-python numpy
 - **Camera Configuration**: Adjust the camera index in the `cv2.VideoCapture()` function call if you're using a camera other than the default one (index 0).
 
 - **Additional Functionality**: Modify the script to include additional functionality, such as saving images of unknown faces or integrating with a larger attendance tracking system.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
