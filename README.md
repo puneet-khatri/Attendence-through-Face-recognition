@@ -1,4 +1,4 @@
-# Attendence-through-Face-recognition
+# Automated Attendence through Face-recognition
 
 The Face Attendance System is a Python script that leverages the face_recognition library along with OpenCV to create a simple yet effective attendance tracking system. This system captures live video feed from a camera, detects faces in real-time, and logs the attendance of recognized individuals into a CSV file.
 
